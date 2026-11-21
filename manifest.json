@@ -1,0 +1,52 @@
+{
+  "attribution": "See ATTRIBUTION.md",
+  "layers": [
+    {
+      "changed_at": "2026-11-19T20:46:24+00:00",
+      "features": 4,
+      "id": "wildfires",
+      "licence_confirmed": true,
+      "path": "Alberta/Alberta Wildfires.kmz",
+      "sha256": "60fb0211ab95d3beec0f4daea528d0c051dda152bf1b3d34585b25094c904f9f",
+      "status": "ok"
+    },
+    {
+      "changed_at": "2026-11-21T11:22:38+00:00",
+      "features": 102,
+      "id": "perimeters",
+      "licence_confirmed": true,
+      "path": "Alberta/Satellite Fire Perimeters - Alberta Region.kmz",
+      "sha256": "791dd0bc34f775e9836199ef9416e598d2ad1a508c80338d1485488b96fc3508",
+      "status": "ok"
+    },
+    {
+      "changed_at": "2026-11-20T20:30:13+00:00",
+      "features": 0,
+      "id": "weather",
+      "licence_confirmed": true,
+      "path": "Alberta/Weather Alerts - Alberta Region.kmz",
+      "sha256": "1f8e8e69af9bd822b597999029b660322e1425d9fc2424ee948d630e383f5125",
+      "status": "ok"
+    },
+    {
+      "changed_at": "2026-11-21T02:27:50+00:00",
+      "features": 60,
+      "id": "earthquakes",
+      "licence_confirmed": true,
+      "path": "Alberta/Earthquakes - Alberta Region.kmz",
+      "sha256": "ed345a6266cc9b74497b846591d7d9742459322bc062630c7c9b009e6bfdf4e4",
+      "status": "ok"
+    },
+    {
+      "changed_at": "2026-11-08T16:14:05+00:00",
+      "features": 154,
+      "id": "hospitals",
+      "licence_confirmed": true,
+      "path": "Alberta/Health Facilities - Alberta.kmz",
+      "sha256": "f192bdd4e5410f1d2fa7b761fe7211bdae7521350af9c1e9111ad011e0f062fd",
+      "status": "ok"
+    }
+  ],
+  "name": "NorthTak Maps",
+  "region": "Alberta"
+}
